@@ -16,4 +16,5 @@ This is a **responsive scientific calculator** built using **HTML, CSS, and Java
 ## 💻 Installation
 1. Clone the repository:
    ```bash
+   https://github.com/Payal-24/scientificcalc.git
  
